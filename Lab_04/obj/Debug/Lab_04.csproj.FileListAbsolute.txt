@@ -1,0 +1,20 @@
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.csproj.AssemblyReference.cache
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.frmSinhVien.resources
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.Properties.Resources.resources
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.csproj.GenerateResource.cache
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.csproj.CoreCompileInputs.cache
+C:\Code\Lab_04\Lab_04\bin\Debug\Lab_04.exe.config
+C:\Code\Lab_04\Lab_04\bin\Debug\Lab_04.exe
+C:\Code\Lab_04\Lab_04\bin\Debug\Lab_04.pdb
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.exe
+C:\Code\Lab_04\Lab_04\obj\Debug\Lab_04.pdb
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\bin\Debug\Lab_04.exe.config
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\bin\Debug\Lab_04.exe
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\bin\Debug\Lab_04.pdb
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.csprojAssemblyReference.cache
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.frmSinhVien.resources
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.Properties.Resources.resources
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.csproj.GenerateResource.cache
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.csproj.CoreCompileInputs.cache
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.exe
+C:\Users\HONG PHUC\Downloads\Lab_04\Lab_04\obj\Debug\Lab_04.pdb
